@@ -15,4 +15,3 @@ col95, col100 = st.columns(2)
 col95.plotly_chart(fig)
 col100 .plotly_chart(fig2)
 
-streamlit run c:/Users/bruno/OneDrive/Área de Trabalho/Microsoft VS Code/Projetos/UNIP/Grafico.py [GeneratorExit]
